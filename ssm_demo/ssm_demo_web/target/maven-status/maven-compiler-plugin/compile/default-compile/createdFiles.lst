@@ -1,0 +1,7 @@
+com\itcro\ssm\controller\UserController.class
+com\itcro\ssm\controller\SysLogController.class
+com\itcro\ssm\controller\OrderController.class
+com\itcro\ssm\controller\ProductController.class
+com\itcro\ssm\controller\RoleController.class
+com\itcro\ssm\controller\PermissionController.class
+com\itcro\ssm\controller\LogAop.class

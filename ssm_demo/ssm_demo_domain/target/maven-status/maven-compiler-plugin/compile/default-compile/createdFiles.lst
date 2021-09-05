@@ -1,0 +1,8 @@
+com\itcro\ssm\domain\Product.class
+com\itcro\ssm\domain\SysLog.class
+com\itcro\ssm\domain\Permission.class
+com\itcro\ssm\domain\UserInfo.class
+com\itcro\ssm\domain\Orders.class
+com\itcro\ssm\domain\Traveller.class
+com\itcro\ssm\domain\Role.class
+com\itcro\ssm\domain\Member.class
